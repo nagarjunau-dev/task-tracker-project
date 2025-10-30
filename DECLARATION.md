@@ -2,12 +2,9 @@
 ```markdown
 # Declaration
 
-I hereby declare that the project **“Task Tracker”** has been developed by **Nagarjuna U**.
+I hereby declare that the project **“Task Tracker”** has been developed by **Nagarjuna Upparapalli**.
 
-I confirm that:
-- This project is my own original work.
-- I have not copied code from any external unauthorized source.
-- I understand that plagiarism or code duplication is not allowed.
+I confirm I did not use LLMs or code-generation tools for this assessment.
 
 **Name:** Nagarjuna Upparapalli  
 **Date:** October 2025
